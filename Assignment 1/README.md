@@ -1,6 +1,7 @@
 **ASSIGNMENT 1**
 
-Q1: 
+Q1:
+
 **Alan Turing’s "Computing Machinery and Intelligence":**
 Alan Turing wrote an important paper in 1950 called "Computing Machinery and Intelligence," laid the foundation for discussions on artificial intelligence (AI). Turing proposed the famous Imitation Game, now known as the Turing Test, to evaluate a machine’s ability to exhibit intelligent behaviour indistinguishable from that of a human. In his paper, he also discussed and responded to several objections people might have about machine intelligence. This essay examines which objections are still relevant, evaluates Turing’s refutations, considers new objections arising from technological advancements, and reflects on his prediction regarding AI’s ability to pass the Turing Test by the year 2000.
 
@@ -33,6 +34,7 @@ Today, AI models like GPT-4 and ChatGPT have come much closer to passing the Tur
 Turing’s paper is still one of the most important works in AI philosophy. Many of his ideas remain relevant, and some of the objections he countered have weakened over time. However, new challenges—such as bias, explainability, and AI alignment—have emerged. While his prediction about the Turing Test was not fully met by 2000, AI is continuously evolving toward that goal. Turing’s work continues to shape discussions about machine intelligence and its role in society.
 
 Q2:
+
 1.	Playing table tennis (ping-pong).
 * Partially possible. AI-powered robots can hit the ball and play against humans, but they struggle with quick reflexes, unpredictable shots, and advanced strategies.
 2.	Playing bridge at a competitive level.
@@ -52,8 +54,11 @@ Q2:
 
 
 Q3:
+
 **Domain:** Virtual Personal Assistant (e.g., Siri, Google Assistant, Alexa)
+
 **Description:**
+
 The agent is an AI virtual assistant that helps users with tasks like setting reminders, answering questions, playing music, and controlling smart home devices. It processes voice commands, searches the internet, and interacts with apps to provide useful responses.
 *	Accessible: The assistant understands voice commands but may not always have full context or access to private information.
 *	Deterministic: Responses depend on user input, internet availability, and changing data sources. (slightly deterministic)
@@ -63,6 +68,7 @@ The agent is an AI virtual assistant that helps users with tasks like setting re
 A hybrid agent is most effective, because it can instantly respond to commands, Plans actions and adapts to user preferences and improves.
 
 Q4:
+
 1. An agent with partial information cannot be perfectly rational.
 *False: An agent can still make the best decision based on available information and predictions. Example: A self-driving car in fog can slow down and use sensors to drive safely.
 2. Some environments make pure reflex agents irrational.
